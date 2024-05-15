@@ -5,7 +5,7 @@ twilionumber = '+923261451980'
 twiliosmsnumber = '+923261451980'
 
 #Telegram Bot Token
-API_TOKEN = "6714230840:AAHqWJfwZkaibvA6fwQfZaSE0rTsVXL1jq8" 
+API_TOKEN = "6885408734:AAGxH5_Z9jTYSh_RpKa7U2803layDWS2MTk" 
 
 #Host URL
 callurl = 'https://2b7a-37-111-181-169.ngrok-free.app'
